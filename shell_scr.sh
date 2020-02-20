@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ehco "hello world"
+ehco "hello world,baoli"
